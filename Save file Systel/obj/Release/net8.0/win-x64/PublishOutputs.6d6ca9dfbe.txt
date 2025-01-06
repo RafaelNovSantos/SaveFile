@@ -1,0 +1,2 @@
+C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\Save file Systel.pdb
+C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\Save file Systel.exe

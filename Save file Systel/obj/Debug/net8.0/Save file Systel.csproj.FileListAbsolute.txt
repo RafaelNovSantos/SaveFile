@@ -1,0 +1,14 @@
+C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Debug\net8.0\Save file Systel.exe
+C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Debug\net8.0\Save file Systel.deps.json
+C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Debug\net8.0\Save file Systel.runtimeconfig.json
+C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Debug\net8.0\Save file Systel.dll
+C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Debug\net8.0\Save file Systel.pdb
+C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\obj\Debug\net8.0\Save file Systel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\obj\Debug\net8.0\Save file Systel.AssemblyInfoInputs.cache
+C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\obj\Debug\net8.0\Save file Systel.AssemblyInfo.cs
+C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\obj\Debug\net8.0\Save file Systel.csproj.CoreCompileInputs.cache
+C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\obj\Debug\net8.0\Save file Systel.dll
+C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\obj\Debug\net8.0\refint\Save file Systel.dll
+C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\obj\Debug\net8.0\Save file Systel.pdb
+C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\obj\Debug\net8.0\Save file Systel.genruntimeconfig.cache
+C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\obj\Debug\net8.0\ref\Save file Systel.dll

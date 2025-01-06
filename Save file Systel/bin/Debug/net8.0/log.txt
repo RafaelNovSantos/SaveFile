@@ -1,0 +1,54 @@
+﻿[06/01/2025 16:21:24] Arquivo de configuração não encontrado.
+[06/01/2025 16:21:24] Configuração inválida. Criando um novo arquivo de configuração.
+[06/01/2025 16:21:24] Novo arquivo de configuração criado: config.xml
+[06/01/2025 16:21:24] Arquivo não encontrado.
+[06/01/2025 16:21:29] Arquivo não encontrado.
+[06/01/2025 16:21:34] Arquivo não encontrado.
+[06/01/2025 16:21:39] Arquivo não encontrado.
+[06/01/2025 16:21:44] Arquivo não encontrado.
+[06/01/2025 16:21:49] Arquivo não encontrado.
+[06/01/2025 16:21:54] Arquivo não encontrado.
+[06/01/2025 16:21:59] Arquivo não encontrado.
+[06/01/2025 16:22:04] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:22:09] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:22:14] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:22:19] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:22:24] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:22:29] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:22:34] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:22:39] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:22:44] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:22:49] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:22:54] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:22:59] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:23:04] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:23:09] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:23:14] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:23:19] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:23:24] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:23:29] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:23:34] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:24:03] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:24:16] Arquivo copiado para: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:24:43] Arquivo copiado para: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:24:43] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:24:48] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:24:53] Arquivo copiado para: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:24:53] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:24:58] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:25:04] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:25:09] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:25:14] Arquivo reescrito: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:25:24] Arquivo copiado para: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:25:44] Arquivo copiado para: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:46:19] Arquivo copiado para: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:47:04] Arquivo não encontrado.
+[06/01/2025 16:55:39] Arquivo não encontrado.
+[06/01/2025 16:56:50] Arquivo copiado para: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:57:10] Arquivo copiado para: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:58:15] Arquivo copiado para: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 16:58:30] Arquivo não encontrado.
+[06/01/2025 16:59:35] Arquivo copiado para: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 17:00:40] Arquivo copiado para: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT
+[06/01/2025 17:00:51] Arquivo não encontrado.
+[06/01/2025 17:01:21] Arquivo copiado para: C:\Users\Systel\RiderProjects\Save file Systel\Save file Systel\bin\Release\net8.0\win-x64\publish\TXITENS (1).TXT

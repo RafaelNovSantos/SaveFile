@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <RootNamespace>Save_file_Systel</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="bin\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="bin\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="bin\**" />
+    </ItemGroup>
+
+</Project>

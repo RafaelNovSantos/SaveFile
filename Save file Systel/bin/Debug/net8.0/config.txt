@@ -1,0 +1,3 @@
+Nome do arquivo a ser copiado: TXITENS (1).TXT
+Local do arquivo: C:\Users\Systel\Downloads\
+Local de salvamento: C:\SYSTEL\importar
